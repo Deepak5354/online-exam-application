@@ -2,7 +2,6 @@
 
 A mini online test application built on the **MERN stack** (MongoDB, Express, React, Node). A student signs in, starts a 10-question test drawn at random from MongoDB, answers within a 10-minute countdown, and gets a server-graded result with a question-by-question analysis. An admin can manage the question bank.
 
-This project grew out of **Queue Desk**, the queue-management app in the same repository: the login, sign-up, forgot-password and change-password flows, the design system, the layout primitives and the auth architecture are the original ones. Only the app behind the login was replaced.
 
 **Documentation:** [`SETUP-WINDOWS.md`](SETUP-WINDOWS.md) (beginner setup, step by step) · [`CHANGES.md`](CHANGES.md) (every created/modified/deleted file) · [`TESTING.md`](TESTING.md) (verification report).
 
